@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fuku8/typescript-for-developer/issues"
   },
-  "homepage": "https://github.com/fuku8/typescript-for-developer#readme"
+  "homepage": "https://github.com/fuku8/typescript-for-developer#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
